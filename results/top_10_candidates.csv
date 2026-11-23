@@ -1,0 +1,1580 @@
+candidate_id,category,resume_text,resume_length,cleaned_resume,extracted_skills,similarity_score,matched_skills,missing_skills,skill_match_score,final_score,rank
+25397102,BUSINESS-DEVELOPMENT,"BUSINESS DEVELOPMENT ANALYST
+Summary
+Extensive Analyst experience with emphasis on Business Development and Data Analytic
+Ambitious, detailed-oriented Business Professional with a high degree of mastery in analyzing complex business objectives and meeting deadlines
+under pressure. Urgently adapts to challenges and changing environments. Achievement-driven with a demonstrated history of exceeding
+development requirements and problem solving. Top-preforming at providing financial support and cultivating lasting customer relationships.
+Key Skills
+Business process improvement
+Excellent attention to detail
+Advanced Adobe, Microsoft Excel, Word, and Power Point
+Analytical and Tactical Planning
+Flexible team player
+Fast Learner
+Strong Requirement tracing
+Basic financial and operational reporting
+ 
+Superb communication skills
+Advanced problem solving abilities
+Professional Experience
+July 2016
+to
+October 2017
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Business Development Analyst
+Responsible for increasing leadership development for Entry Level Business Analyst (implementing best business practices, analyzing
+operation impacts and opportunities technology changes)
+Worked with end users, administrators, stake-holders, and project managers to increase growth for clients by understanding objective
+requirements, utilizing workshops with cases and scenarios to communicate potential financial improvements, analyzing system root cause of
+defects, and task/workflows analysis
+Verified metrics use to determine inefficiencies and areas for improvement through budget management, influencing business partner decision
+making, surveying and site visits
+Reviewed 
+all tracked, analyzed and interpreted production trends that support data to ensure all necessary assignments and completions
+were achieved
+ 
+November 2014
+to
+September 2015
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Documentation Analyst
+Solved time management inefficiencies with assisting customer service in all departments by 15%, while reviewing the accuracy and
+completeness of each departments expectations
+Slashed administrative cost 10% by boosting company efficiency in the use of registrar's website with implementing enhancement of student
+documents
+Improved organizational change strategies with support on documented process functions (Using Microsoft Excel and Word to track
+orders, deliveries, and receipt of goods)
+May 2014
+to
+November 2014
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Data 
+Analyst (Intern)
+ 
+Learned how to analyze different stakeholder objectives and feedback through effectively communicating reports, interview and surveys
+with top financial analyst
+Achieved basic financial and operation reporting 
+with assisting the coordination of Quality Assurance testers for end-to-end unit testing and
+post-production testing
+Drafted financial and resource planning reports using optimization software such asÂ Oracle, SQL, JIRA, and SAP 
+Qualifications
+Adobe, Customer Relations, Document reports, Budgeting, Cross-functional Team Leadership, Business Analysis, Access, Microsoft
+Project, Organization, Advanced Presentation, Project Coordinator, Python, Quality Control, Quality Assurance, Research, Developing
+other Business Analyst, Public Speaking, Negotiation, SAP, SQL, SPSS, Oracle
+Education
+May, 2016
+University of Miami
+ 
+City
+ 
+, 
+State
+ 
+Bachelor of Arts
+ 
+: 
+Economics and Pre-Law
+Minors: Business Law and Marketing
+Alpha Epsilon Pi - Social Officer; August 2013 â€“ May 2016",3455,business development analyst summary extensive analyst experience with emphasis on business development and data analytic ambitious detailed oriented business professional with a high degree of mastery in analyzing complex business objectives and meeting deadlines under pressure urgently adapts to challenges and changing environments achievement driven with a demonstrated history of exceeding development requirements and problem solving top preforming at providing financial support and cultivating lasting customer relationships key skills business process improvement excellent attention to detail advanced adobe microsoft excel word and power point analytical and tactical planning flexible team player fast learner strong requirement tracing basic financial and operational reporting superb communication skills advanced problem solving abilities professional experience july to october company name city state business development analyst responsible for increasing leadership development for entry level business analyst implementing best business practices analyzing operation impacts and opportunities technology changes worked with end users administrators stake holders and project managers to increase growth for clients by understanding objective requirements utilizing workshops with cases and scenarios to communicate potential financial improvements analyzing system root cause of defects and task workflows analysis verified metrics use to determine inefficiencies and areas for improvement through budget management influencing business partner decision making surveying and site visits reviewed all tracked analyzed and interpreted production trends that support data to ensure all necessary assignments and completions were achieved november to september company name city state documentation analyst solved time management inefficiencies with assisting customer service in all departments by while reviewing the accuracy and completeness of each departments expectations slashed administrative cost by boosting company efficiency in the use of registrar s website with implementing enhancement of student documents improved organizational change strategies with support on documented process functions using microsoft excel and word to track orders deliveries and receipt of goods may to november company name city state data analyst intern learned how to analyze different stakeholder objectives and feedback through effectively communicating reports interview and surveys with top financial analyst achieved basic financial and operation reporting with assisting the coordination of quality assurance testers for end to end unit testing and post production testing drafted financial and resource planning reports using optimization software such as oracle sql jira and sap qualifications adobe customer relations document reports budgeting cross functional team leadership business analysis access microsoft project organization advanced presentation project coordinator python quality control quality assurance research developing other business analyst public speaking negotiation sap sql spss oracle education may university of miami city state bachelor of arts economics and pre law minors business law and marketing alpha epsilon pi social officer august may,"['python', 'sql', 'excel', 'communication', 'leadership', 'problem solving', 'customer service', 'marketing', 'research', 'communication skills']",17.940047021532735,"['python', 'sql', 'excel', 'communication', 'problem solving', 'research']","['power bi', 'data analysis', 'database management']",66.66666666666666,47.17601880861309,1
+18448085,AUTOMOBILE,"DATA ANALYST
+Professional Summary
+Industrial and Systems Engineering graduate, certified Base SAS Programmer and a Lean Six Sigma Green Belt with strong background in
+statistics, mathematics and logical problem solving looking for a dynamic opportunity in data driven fields of analytics and statistical modeling.
+Core Qualifications
+Data Science Tools: R, Base SAS, Python (Numpy, Pandas, Matplotlib, Scikit- learn), SPSS, Minitab, MATLAB, Apache Spark, SQL, MS
+Excel, MS Visio, Tableau MySQL, Oracle Database, Microsoft Access Key Competencies: Data Extraction, Data Wrangling, Data Analysis,
+Data Visualization, Regression Analysis (Linear, Logistic and Multinomial), Time Series Analysis, Association Rule Mining, Monte Carlo
+Simulation, Optimization, Random Forests
+Experience
+07/2016
+ 
+to 
+Current
+Data Analyst
+ 
+Company Name
+ 
+ï¼​ 
+State
+09/2015
+ 
+to 
+05/2016
+Student Manager
+ 
+Company Name
+ 
+ï¼​ 
+State
+Undertook a leadership and advisory role in training newcomers to hone their culinary and behavioral skills.
+PROJECTS Classification of Customers for Credit Card Company 
+Jan 2016 Â​ May 2016 Performed a logistic regression on a credit card
+company dataset to classify clients as credible and non-credible.
+Extracted crucial factors to simplify the classification model using exploratory factor analysis.
+Developed and validated a model to classify the future customers and aid decision-making.
+Simulation Analysis of Adding a Second Parking Ticket Booth at a Mall 
+Aug 2015 Â​ Dec 2015 Assessed distribution and trends of
+incoming customer patterns performing statistical analysis on MATLAB and ExpertFit.
+Additional booth modeled using Arena reduced average waiting time per customer from 6.2 minutes to 1.8 minutes.
+Statistical Analysis of Defects in Clutch Plate Manufacturing - A Six Sigma Study 
+Jan 2015 Â​ May 2015 The DMAIC methodology
+(Define, Measure, Analyze, Improve and Control) was implemented to understand the cause of the defects and data was statistically
+analyzed with the help of control charts using Minitab.
+06/2013
+ 
+to 
+07/2013
+Intern
+ 
+Company Name
+Identified the areas in the assembly line of a light commercial vehicle where more operations could be housed.
+Developed a detailed model of improved layout to accommodate more operations using AutoCAD to improve the space utilization by
+300%.
+consultant
+a self-storage company to classify the customers as 'worthy' and 'not worthy' based on their activity on the company website using the
+Random Forest algorithm.
+Built the model in R and model deployment using Python.
+Currently building a reservation model for Public Storage to forecast if the customer would reserve the storage or not.
+Education
+Aug 2016
+Masters of Science
+ 
+: 
+Industrial and Systems Engineering
+ 
+Binghamton University, State University of New York
+ 
+Industrial and Systems Engineering
+3.51/4.00
+May 2014
+Bachelors of Engineering
+ 
+: 
+Mechanical Engineering
+ 
+Osmania University
+ 
+Mechanical Engineering 3.33/4.00
+Skills
+Apache, AutoCAD, charts, Credit, clients, Data Analysis, Data Visualization, Databases, Dec, decision-making, layout, leadership, MATLAB,
+Microsoft Access, MS Excel, Minitab, MySQL, Optimization, Oracle Database, Python, SAS, Simulation, Six Sigma, SPSS, SQL, Statistical
+Analysis, Tableau, Visio, website",3286,data analyst professional summary industrial and systems engineering graduate certified base sas programmer and a lean six sigma green belt with strong background in statistics mathematics and logical problem solving looking for a dynamic opportunity in data driven fields of analytics and statistical modeling core qualifications data science tools r base sas python numpy pandas matplotlib scikit learn spss minitab matlab apache spark sql ms excel ms visio tableau mysql oracle database microsoft access key competencies data extraction data wrangling data analysis data visualization regression analysis linear logistic and multinomial time series analysis association rule mining monte carlo simulation optimization random forests experience to current data analyst company name state to student manager company name state undertook a leadership and advisory role in training newcomers to hone their culinary and behavioral skills projects classification of customers for credit card company jan may performed a logistic regression on a credit card company dataset to classify clients as credible and non credible extracted crucial factors to simplify the classification model using exploratory factor analysis developed and validated a model to classify the future customers and aid decision making simulation analysis of adding a second parking ticket booth at a mall aug dec assessed distribution and trends of incoming customer patterns performing statistical analysis on matlab and expertfit additional booth modeled using arena reduced average waiting time per customer from minutes to minutes statistical analysis of defects in clutch plate manufacturing a six sigma study jan may the dmaic methodology define measure analyze improve and control was implemented to understand the cause of the defects and data was statistically analyzed with the help of control charts using minitab to intern company name identified the areas in the assembly line of a light commercial vehicle where more operations could be housed developed a detailed model of improved layout to accommodate more operations using autocad to improve the space utilization by consultant a self storage company to classify the customers as worthy and not worthy based on their activity on the company website using the random forest algorithm built the model in r and model deployment using python currently building a reservation model for public storage to forecast if the customer would reserve the storage or not education aug masters of science industrial and systems engineering binghamton university state university of new york industrial and systems engineering may bachelors of engineering mechanical engineering osmania university mechanical engineering skills apache autocad charts credit clients data analysis data visualization databases dec decision making layout leadership matlab microsoft access ms excel minitab mysql optimization oracle database python sas simulation six sigma spss sql statistical analysis tableau visio website,"['python', 'data analysis', 'sql', 'excel', 'leadership', 'autocad', 'engineering', 'mechanical engineering', 'problem solving']",30.78472667749019,"['python', 'sql', 'excel', 'data analysis', 'problem solving']","['power bi', 'database management', 'communication', 'research']",55.55555555555556,45.647224004329416,2
+13405733,INFORMATION-TECHNOLOGY,"DIRECTOR OF INFORMATION TECHNOLOGY
+Professional Summary
+Dynamic Information Technology Manager with 13 years of IT leadership experience including oversight of infrastructure, application support and
+cybersecurity services. Dedicated to customer satisfaction with focused delivery of technical solutions. Proven leader in directing operations,
+maintenance and support of complex systems. Develops creative business solutions, leveraging diverse methodologies and delivering engineering
+solutions for leading organizations. Highly adept in request for proposal development, technology needs assessments and staff training. Successful
+in motivating teams to meet demanding timelines by utilizing critical thinking, resource and conflict management and facilitating stakeholder
+engagement. Innovative and driven with passion for delivering forward thinking, emerging trend technologies.
+Skills
+Agile framework
+Business intelligence
+Change management
+Collaboration
+Conflict resolution
+Critical thinking
+Data migration
+Information technology management
+Insurance
+ITIL
+Organization and time management
+Perl
+Problem-solving
+Project lifecycle management
+Project management and leadership
+Python
+Risk assessment
+Salesforce Admin and CRM
+SDLC
+Six Sigma
+SQL (Microsoft and Oracle)
+Excellent Verbal and written communication
+Agile, Functional, Project leadership,Written communication
+AI, Information technology, Project Management
+Budgeting, Insurance, Python
+Budgets, ITIL, Quality
+Budget, Leadership, Research
+Business intelligence, Marketing, Risk assessment
+Business process re-engineering, Access, Sales
+Change management, Excel, Scheduling
+Conflict resolution, Migration, SDLC
+Critical thinking, Network design, Six Sigma
+CRM, Next, Software development
+Clients, Optimization, SQL
+Client, Oracle, Staffing
+Data collection, Perl, Strategic
+Data migration, Problem-solving, Time management
+Databases, Processes, Upgrades
+Designing, Producing, Upgrade
+Senior management, Profit, Vision
+Work History
+Director of Information Technology
+ 
+, 
+11/2012
+ 
+to 
+Current
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Develops, tracks and controls long-term information technology operating budgets and cost and benefit analyses for IT spending initiatives.
+Leads and assists technical upgrade projects for clients by coordinating with consultants and developers for data migration and integrations.
+Coordinates with management teams to plan, develop, align and execute strategies that would meet client's vision, mission and purpose.
+Reviews and assesses architecture design, implementation, testing and deployment needs to identify project requirements and reduce costs
+18%.
+Plays key role in on-going network design, reevaluation and optimization to keep pace with company growth.
+Senior Consulting IT Program Manager
+ 
+, 
+12/2014
+ 
+to 
+12/2020
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Managed and implemented concurrent projects relating to business process re-engineering, software development and upgrades to foster
+productivity, throughput, and end-user engagement.
+Performed program research and analyzed data collection to develop cost estimates and budgets.
+Identified system needs and designed processes to support business requirements.
+Collaborated with clients to understand technology staffing requirements and improved productivity while reducing staffing and operational
+costs by 15%.
+Performed risk assessment of stakeholders, senior management, organization, infrastructure, and ITIL governance to effectively plan,
+develop, and manage schedules, resources, and costs.
+Launched Salesforce data cleansing, migration, and integration programs to aid in gathering functional and business requirements to support
+team, and mitigate risks.
+Integrated agile methodologies, emerging AI, digital, and social media technologies into end-user experience to foster adoption, continued
+engagement and increase sales profit levels 30%.
+Executed coordinated project leadership, efficient resource and budget utilization, schedule adherence, implementation of application
+software, training end users, and problem-solving across multiple product lines.
+Business Products Specialist
+ 
+, 
+05/2008
+ 
+to 
+11/2012
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Developed and fostered relationships with business owners and key executives to assess dynamic risk mitigation and business insurance
+needs and deliver solutions.Successfully managed internal & external stakeholder engagement to aid in process and resource improvements to align strategic and
+industry compliance objectives.
+Recorded and integrated CRM data in Salesforce from previous Access and Excel databases, streamlining analysis procedures for
+efficiency and accuracy.
+Planned and executed events and marketing programs, producing 40% of goal of qualified leads.
+Exceeded sales goal 12% by effectively applying analyzed data to marketing campaigns and sharing data interdepartmentally.
+Informed supervisors and company leaders on markets and regional sales needs to best meet customer needs and maximize revenue.
+Product Design Project Team Lead
+ 
+, 
+11/2000
+ 
+to 
+06/2004
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Demonstrated efficacy throughout project & product life cycles in applying flexible change management deliverables including training,
+communications, and stakeholder engagement to increase end-user adoption of project implementations.
+Supervised four (4) concurrent projects for 16 & 17 Next Gen nuclear core clients in Brazil and South Korea by coordinating planning,
+designing, testing, budgeting and scheduling tasks.
+Developed implementation methodologies to rein in project costs while meeting key milestones.
+Provided accurate, detailed quality assessments based on project drawings and technical specifications.
+Education
+Certified Associate in Project Management (CAPM) â€“ #2743884, Expires
+ 
+: 
+Expected in 
+2028
+ 
+2021
+ 
+Master of Science
+ 
+: 
+Information Technology Management
+ 
+, 
+2019
+ 
+Western Governors University
+ 
+- 
+City
+ 
+, 
+State
+ 
+Bachelor of Science
+ 
+: 
+Business Administration and Management, Marketing and Management, International Business
+ 
+, 
+2004
+ 
+University Of South Carolina - Columbia
+ 
+- 
+State
+ 
+Affiliations
+Project Management Institute (PMI) â€“ # 6203883, Current Member
+Certifications
+Certified 
+[Job Title]
+ , 
+[Company Name]
+ 
+- 
+[Timeframe]",6331,director of information technology professional summary dynamic information technology manager with years of it leadership experience including oversight of infrastructure application support and cybersecurity services dedicated to customer satisfaction with focused delivery of technical solutions proven leader in directing operations maintenance and support of complex systems develops creative business solutions leveraging diverse methodologies and delivering engineering solutions for leading organizations highly adept in request for proposal development technology needs assessments and staff training successful in motivating teams to meet demanding timelines by utilizing critical thinking resource and conflict management and facilitating stakeholder engagement innovative and driven with passion for delivering forward thinking emerging trend technologies skills agile framework business intelligence change management collaboration conflict resolution critical thinking data migration information technology management insurance itil organization and time management perl problem solving project lifecycle management project management and leadership python risk assessment salesforce admin and crm sdlc six sigma sql microsoft and oracle excellent verbal and written communication agile functional project leadership written communication ai information technology project management budgeting insurance python budgets itil quality budget leadership research business intelligence marketing risk assessment business process re engineering access sales change management excel scheduling conflict resolution migration sdlc critical thinking network design six sigma crm next software development clients optimization sql client oracle staffing data collection perl strategic data migration problem solving time management databases processes upgrades designing producing upgrade senior management profit vision work history director of information technology to current company name city state develops tracks and controls long term information technology operating budgets and cost and benefit analyses for it spending initiatives leads and assists technical upgrade projects for clients by coordinating with consultants and developers for data migration and integrations coordinates with management teams to plan develop align and execute strategies that would meet client s vision mission and purpose reviews and assesses architecture design implementation testing and deployment needs to identify project requirements and reduce costs plays key role in on going network design reevaluation and optimization to keep pace with company growth senior consulting it program manager to company name city state managed and implemented concurrent projects relating to business process re engineering software development and upgrades to foster productivity throughput and end user engagement performed program research and analyzed data collection to develop cost estimates and budgets identified system needs and designed processes to support business requirements collaborated with clients to understand technology staffing requirements and improved productivity while reducing staffing and operational costs by performed risk assessment of stakeholders senior management organization infrastructure and itil governance to effectively plan develop and manage schedules resources and costs launched salesforce data cleansing migration and integration programs to aid in gathering functional and business requirements to support team and mitigate risks integrated agile methodologies emerging ai digital and social media technologies into end user experience to foster adoption continued engagement and increase sales profit levels executed coordinated project leadership efficient resource and budget utilization schedule adherence implementation of application software training end users and problem solving across multiple product lines business products specialist to company name city state developed and fostered relationships with business owners and key executives to assess dynamic risk mitigation and business insurance needs and deliver solutions successfully managed internal external stakeholder engagement to aid in process and resource improvements to align strategic and industry compliance objectives recorded and integrated crm data in salesforce from previous access and excel databases streamlining analysis procedures for efficiency and accuracy planned and executed events and marketing programs producing of goal of qualified leads exceeded sales goal by effectively applying analyzed data to marketing campaigns and sharing data interdepartmentally informed supervisors and company leaders on markets and regional sales needs to best meet customer needs and maximize revenue product design project team lead to company name city state demonstrated efficacy throughout project product life cycles in applying flexible change management deliverables including training communications and stakeholder engagement to increase end user adoption of project implementations supervised four concurrent projects for next gen nuclear core clients in brazil and south korea by coordinating planning designing testing budgeting and scheduling tasks developed implementation methodologies to rein in project costs while meeting key milestones provided accurate detailed quality assessments based on project drawings and technical specifications education certified associate in project management capm expires expected in master of science information technology management western governors university city state bachelor of science business administration and management marketing and management international business university of south carolina columbia state affiliations project management institute pmi current member certifications certified job title company name timeframe,"['python', 'sql', 'excel', 'communication', 'project management', 'leadership', 'engineering', 'problem solving', 'sales', 'marketing', 'research', 'cybersecurity']",13.062288542477015,"['python', 'sql', 'excel', 'communication', 'problem solving', 'research']","['power bi', 'data analysis', 'database management']",66.66666666666666,45.2249154169908,3
+11957080,INFORMATION-TECHNOLOGY,"LEAD INFORMATION TECHNOLOGY SUPPORT SPECIALIST
+Work History
+Company Name
+Company Name
+Skills
+Applications: 
+MS Office Suite 2000-2016, O365, GroupWise, HEAT Call Logging, Crystal Reports, T3 VoiceMail, 
+NetMotion, Novell
+iManager, Active Directory Client/Server: 
+Heatweb-fs Platforms: 
+Windows 2000/XP/7/8/10, UNIX, DOS
+Experience
+03/2016
+ 
+to 
+Current
+Lead Information Technology Support Specialist
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Perform lead worker functions including assigning, coordinating and reviewing daily work of staff, training other employees and act as a
+resource to other staff.
+Perform help desk systems administration; develop and document procedures.
+Coordinate with technical support team, management, and users to define user needs for new or improved systems; coordinate software
+deployments and PC replacements; manage hardware and software inventories.
+All duties as listed below.
+04/2007
+ 
+to 
+03/2016
+Information Technology Support Specialist
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Identify, troubleshoot, install, program, configure, upgrade, analyze and maintain various computer and network peripherals including mobile
+data computing devices.
+Determine appropriate course of action and conduct repairs, modifications, procurement, and replacement of internal peripherals as needed.
+Install, configure, and support enterprise class, SQL compliant database software.
+Document the procedures for other support personnel to use as reference material to assist in the support of these systems.
+Exceptional ability to work with a very demanding group of users in providing timely support in person, over the phone, or in remote
+desktop sessions.
+Known for approachability, diplomacy and patience in dealing with frustrated users.
+Excellent problem-solving skills relating to Access, Excel, or Word questions.
+Create macros, research complex inquiries, and find solutions to users' issues.
+Monitor and maintain back-up systems and server health including Heatweb-fs.
+Collaborate with team members and vendors, to develop strategies for hardware and software solutions.
+Key Achievements: Designed and developed training material, then conducted training classes to assist internal end users in the proper use
+and procedures of City software applications and computer systems.
+Reduced by half the equipment inventory process time by researching and recommending new hand-held scanners then customizing the
+Inventory Worksheet in HEAT to autofill the form.
+Increased efficiency and communication within IT department by redesigning and automating tasks in several of the HEAT Call Logging
+screens.
+Created document for new employees to help them navigate the City's technology, everything from how to access their email, how to use
+their desk phones, to explaining policies and procedures for printing, scanning, and end of day procedures.
+08/2004
+ 
+to 
+03/2007
+End User Support Specialist
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Ensure customer satisfaction by responding to calls to the help desk.
+Logs all customer questions and problems and tracks the same through to resolution.
+Field over 20,800 calls from user community per year.
+Analyze each call for problem symptoms then determine problem resolution.
+Coordinate planning, development, and teaching of software, including time frame for deliverables.
+Designed and created class evaluation database for the purposes of certificate recognition.
+Generate and analyze statistical data from HEAT call ticket database.
+Maintain and update call tracking software.
+Create and update knowledgebase.
+Provide software training to all employees of the District through web pages, training classes, correspondence, or one-on-one assistance.
+Conducted 34 software classes over the last year-and-a-half, with a 98% approval rating.
+Provide software installation, repair, and support to approximately 2,800 employees including the administration compound and district
+laptop users.
+Set up new district laptops to district standards.
+08/2002
+ 
+to 
+05/2004
+Instructional Support Specialist
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Provided administrative/secretarial support to all full- and part-time instructors in the Business Computer Information Systems Department.
+Worked cooperatively with Department Chair and all other faculty of the Business Education Department located on the Main Campus,
+Chico Center, Orland, Paradise, and Glenn County.Recommended modifications or improvements for methods, procedures, techniques, and equipment required for the Business Education
+Degree programs and computer labs resulting in time and cost savings for the department.
+Designed and maintained database of 8 years of graduating students following their degree programs and certificates.
+Provided effective instruction and tutoring to a widely diverse group of students in the following career programs: 
+Microsoft Office (Word,
+Excel, Access, PowerPoint and Publisher), Computer Applications, Office Assistant, Medical Front Office Assistant, Legal Office
+Assistant, Desktop Publishing; and Medical Transcription for Certification.
+Collaborated with the technical support team to recommend new hardware and software to improve the performance of the computers.
+Maintained and updated Butte College, Business Education Website.
+Provided desktop publishing design work including creation of flyers, brochures, news releases, and newspaper ads outlining special events
+and course offerings.
+Assist Enterprise Networks department by installing lab computer systems (4 labs - 125 systems, 80 new systems), validating lab system
+images every semester, troubleshooting user hardware and software issues, hardware repair, memory upgrades, software installs, OS and
+software patch installation, and OS upgrades.
+02/2002
+ 
+to 
+05/2002
+Instructional Support Asst I
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Instructed and tutored Corporate Information Technology students in the basics of: Database design: including ERD diagrams, data
+dictionaries, using all functions of Microsoft Access.
+SAP R/3: enterprise wide functionality, materials requirement planning (MRP) functionality and to create a personnel file for a new
+employee.
+HTML web design: create two inter-related web pages in HTML, upload a database to the web server, connect web pages to the
+database, and pull information from the database to display in the pages.
+Implemented and documented lab policies and procedures.
+Lead Documentation Team in the designing, developing and delivering of a computerized training solution for the Center for Economic
+Development.
+Worked jointly with seven other team leaders.
+Managed a six-person team.
+Wrote documentation guidelines.
+Produced the User Guide and Online Help for the users of the new software.
+06/1994
+ 
+to 
+05/1997
+Computer Systems Manager
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Database Manager and Desktop Publisher Managed and maintained customized church database with 6000+ entries including membership,
+attendance, and contribution modules.
+Produced tailored reports for administrator using data analysis and manipulation techniques.
+Analyzed and produced visualized reports of abstract data.
+Trained others to manipulate the database for creating custom reports for their departments.
+Served as network administrator.
+Diagnosed and implemented solutions for routine hardware issues.
+Edited weekly publications including the Lantern Newsletter.
+Prepared special publication projects.
+Education and Training
+May, 2002
+B.S
+ 
+: 
+Business Administration, Management Information Systems
+ 
+California State University
+ 
+ï¼​ 
+City
+ 
+Business Administration, Management
+Information Systems Cum Laude
+December, 2008
+Microsoft Word XP Certification, Microsoft Office Specialist Program 
+May, 2003 Crystal Certification of Crystal Reports Design 9.0 
+April, 2005
+New Horizons Course: OLL - Developing MS ASP .NET Web Applications Using Visual Studio 
+October, 2007 Novell Certificate in
+Implementing Novell Open Enterprise Server 2 for Linux
+Graduate Certificate in Corporate Education 
+August, 2009 Pearson VUE Certified Test Administrator 
+May, 2010 Siemon Certification in Design
+Principles and Installation Practices 
+December, 2011 FrontRange HEAT Administration I 
+November, 2013 FrontRange HEAT Administration II
+February, 2014 Dell Certification for Online Self Dispatch for Desktops and Notebooks 
+June, 2015
+Activities and Honors
+Driven Information Technology Professional with broad technical skill set. 
+Known for ability to multi-task and juggle multiple projects
+simultaneously, meeting all deadlines. Excels in customer support, training, and documentation. Most noted for customer service and teamwork
+expertise. Thrives in environments that continually embraces new technologies.
+Skills
+ASP .NET, Client/Server, Crystal Reports, data analysis, Database design, database software, Desktop Publishing, Desktop Publisher, equipment
+inventory, special events, Front Office, help desk, HTML web design, in Design, instruction, Linux, Logging, macros, Publisher, network
+administrator, Newsletter, procurement, repairs, SAP R/3, software installation, SQL, systems administration, technical support, training material,
+tutoring, UNIX, Visual Studio, Web Applications, web server",9246,lead information technology support specialist work history company name company name skills applications ms office suite o groupwise heat call logging crystal reports t voicemail netmotion novell imanager active directory client server heatweb fs platforms windows xp unix dos experience to current lead information technology support specialist company name city state perform lead worker functions including assigning coordinating and reviewing daily work of staff training other employees and act as a resource to other staff perform help desk systems administration develop and document procedures coordinate with technical support team management and users to define user needs for new or improved systems coordinate software deployments and pc replacements manage hardware and software inventories all duties as listed below to information technology support specialist company name city state identify troubleshoot install program configure upgrade analyze and maintain various computer and network peripherals including mobile data computing devices determine appropriate course of action and conduct repairs modifications procurement and replacement of internal peripherals as needed install configure and support enterprise class sql compliant database software document the procedures for other support personnel to use as reference material to assist in the support of these systems exceptional ability to work with a very demanding group of users in providing timely support in person over the phone or in remote desktop sessions known for approachability diplomacy and patience in dealing with frustrated users excellent problem solving skills relating to access excel or word questions create macros research complex inquiries and find solutions to users issues monitor and maintain back up systems and server health including heatweb fs collaborate with team members and vendors to develop strategies for hardware and software solutions key achievements designed and developed training material then conducted training classes to assist internal end users in the proper use and procedures of city software applications and computer systems reduced by half the equipment inventory process time by researching and recommending new hand held scanners then customizing the inventory worksheet in heat to autofill the form increased efficiency and communication within it department by redesigning and automating tasks in several of the heat call logging screens created document for new employees to help them navigate the city s technology everything from how to access their email how to use their desk phones to explaining policies and procedures for printing scanning and end of day procedures to end user support specialist company name city state ensure customer satisfaction by responding to calls to the help desk logs all customer questions and problems and tracks the same through to resolution field over calls from user community per year analyze each call for problem symptoms then determine problem resolution coordinate planning development and teaching of software including time frame for deliverables designed and created class evaluation database for the purposes of certificate recognition generate and analyze statistical data from heat call ticket database maintain and update call tracking software create and update knowledgebase provide software training to all employees of the district through web pages training classes correspondence or one on one assistance conducted software classes over the last year and a half with a approval rating provide software installation repair and support to approximately employees including the administration compound and district laptop users set up new district laptops to district standards to instructional support specialist company name city state provided administrative secretarial support to all full and part time instructors in the business computer information systems department worked cooperatively with department chair and all other faculty of the business education department located on the main campus chico center orland paradise and glenn county recommended modifications or improvements for methods procedures techniques and equipment required for the business education degree programs and computer labs resulting in time and cost savings for the department designed and maintained database of years of graduating students following their degree programs and certificates provided effective instruction and tutoring to a widely diverse group of students in the following career programs microsoft office word excel access powerpoint and publisher computer applications office assistant medical front office assistant legal office assistant desktop publishing and medical transcription for certification collaborated with the technical support team to recommend new hardware and software to improve the performance of the computers maintained and updated butte college business education website provided desktop publishing design work including creation of flyers brochures news releases and newspaper ads outlining special events and course offerings assist enterprise networks department by installing lab computer systems labs systems new systems validating lab system images every semester troubleshooting user hardware and software issues hardware repair memory upgrades software installs os and software patch installation and os upgrades to instructional support asst i company name city state instructed and tutored corporate information technology students in the basics of database design including erd diagrams data dictionaries using all functions of microsoft access sap r enterprise wide functionality materials requirement planning mrp functionality and to create a personnel file for a new employee html web design create two inter related web pages in html upload a database to the web server connect web pages to the database and pull information from the database to display in the pages implemented and documented lab policies and procedures lead documentation team in the designing developing and delivering of a computerized training solution for the center for economic development worked jointly with seven other team leaders managed a six person team wrote documentation guidelines produced the user guide and online help for the users of the new software to computer systems manager company name city state database manager and desktop publisher managed and maintained customized church database with entries including membership attendance and contribution modules produced tailored reports for administrator using data analysis and manipulation techniques analyzed and produced visualized reports of abstract data trained others to manipulate the database for creating custom reports for their departments served as network administrator diagnosed and implemented solutions for routine hardware issues edited weekly publications including the lantern newsletter prepared special publication projects education and training may b s business administration management information systems california state university city business administration management information systems cum laude december microsoft word xp certification microsoft office specialist program may crystal certification of crystal reports design april new horizons course oll developing ms asp net web applications using visual studio october novell certificate in implementing novell open enterprise server for linux graduate certificate in corporate education august pearson vue certified test administrator may siemon certification in design principles and installation practices december frontrange heat administration i november frontrange heat administration ii february dell certification for online self dispatch for desktops and notebooks june activities and honors driven information technology professional with broad technical skill set known for ability to multi task and juggle multiple projects simultaneously meeting all deadlines excels in customer support training and documentation most noted for customer service and teamwork expertise thrives in environments that continually embraces new technologies skills asp net client server crystal reports data analysis database design database software desktop publishing desktop publisher equipment inventory special events front office help desk html web design in design instruction linux logging macros publisher network administrator newsletter procurement repairs sap r software installation sql systems administration technical support training material tutoring unix visual studio web applications web server,"['data analysis', 'sql', 'excel', 'communication', 'problem solving', 'customer service', 'teaching', 'research', 'html']",10.716759457918295,"['sql', 'excel', 'data analysis', 'communication', 'problem solving', 'research']","['python', 'power bi', 'database management']",66.66666666666666,44.28670378316731,4
+12011623,ENGINEERING,"ENGINEERING AND QUALITY TECHNICIAN
+Career Overview
+A highly experienced skilled graduate with Analytics degree with a very good experience in SAS, Web scraping, SQL, Predictive modelling and
+data visualization. Excellent ability in identifying data requirements for analysis, data cleaning, munging and model building; Ensures the organization
+uses it effectively to reach profit and growth objectives. Comfortable with data handling, modeling, and coding, and have an appreciation of what
+makes sense from a business standpoint. More than six years of experience working as a researcher, data analyst, and environmental science and
+Technology Instructor. Experience in SQL, data warehousing, maintaining, securing and stabilizing data layers and testing to identify data and
+product defects introduced in the system. Customer segmentation, product positioning and mapping and conjoint analysis Modelling: Design and
+implement statistical / predictive models and cutting edge algorithms utilizing diverse sources of data to predict Diversified experience with
+Engineering, Manufacturing, Retailing, Higher Education and IT /Data related companies Fascinated by learning cutting edge technologies, such as;
+Data Mining and Machine Learning Handled a team of 4 during my 3 years of Tech experience and managed more than 200 students and
+effectively evaluated the performance of each student and utilize assessment methods to judge overall progress during my teaching experience.
+Qualifications
+Ability to identify uncovered information from hidden data and convert to a story and communicate effectively through visualization
+Modelling using R, SAS, Python using Pandas
+Web scraping using Beautiful soup in Python
+Databases like Oracle and Microsoft SQL
+Experience in ASP.NET 4.5, C#, and HTML,
+Statistical software like JMP, SPSS, GIS
+Visualization software like Tableau, ggplot (R)
+Experience in database design for data warehousing environments.
+Modelling using Random Forests, Decision Trees, Boosted Trees, etc.
+Modelling using shrinkage methods, including Ridge, LASSO and Elastic Net regression models.
+Dimension Reduction using PCA
+Outlier analysis, Linear Regression, Clustering techniques, logistic regression
+Work Experience
+01/2013
+ 
+to 
+01/2016
+Engineering and Quality Technician
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Planned, performed and conducted semiconductor production process development and engineering designs as well as managed small
+projects and prepared statements and monitored project schedules.
+Identified product defects introduced in data warehouse by performing quality tests using SQL and JMP.
+Co-ordinated with scientists, engineers, manager, analysts to understand the impacts due to defects and provided valuable information for
+product shipping and customer satisfaction.
+Managed multiple tasks and accomplished goals efficiently and per schedule with a strong work performance to meet the goals of the
+department.
+Monitored and adjusted semiconductor production process or/and equipment for improving quality and productivity and achieved a 10%
+higher performance rate for the fiscal year of 2014.
+Provided technical support in developing, building and testing prototypes, new products, processes and procedures and provided training
+and advice to other Engineering technicians.
+Applied database management and data analysis methods which helped enhancing production efficiency and reduced costs for the
+department by 5% in every quarter.
+01/2007
+ 
+to 
+01/2012
+Company Name
+Lecturer in Environmental Science and Technology Effectively engaged in course curriculum development, taught courses and engaged in
+research projects and community services on the areas of Statistics, GIS and natural resource management.
+Developed course material that support the goal of the course including design of curriculum and schedule of instructions, provided student
+with guidance in regards to their grades and progress in the course work and elected as best instructor of the College in 2008.
+Established a GIS laboratory facility with other staff members, provided technical support for environmental remediation projects and for
+legal actions.
+Used SQL and SPSS for managing student database and for analysis of data.
+01/2004
+ 
+to 
+01/2006
+Company Name
+Assistant Lecturer in Natural resource management Assisted in teaching, researching and developing methods which helps in improving both
+the university and students' performance.
+Highly engaged in curricular and extra-curricular activities and community services.
+Established and coordinated nature and environmental protection club in the university.
+Developed teaching methodologies and techniques that added to the knowledge base and understanding of resource management by
+preparing teaching materials, handouts and laboratory manuals.
+Engaged in major research projects of resources management which was undertaken in collaboration with Universities, NGOs, and
+engineering consulting companies.Served as lead of the college's audiovisual center and arranged workshops, meetings and documented academic resources.
+Education and Training
+May 2017
+Master of Science
+ 
+: 
+Analytics
+ 
+University of New Hampshire
+ 
+USA
+ 
+Analytics 4.0/4.0 Currently working on a project on mapping and clustering of
+student success using clustering, data mining and machine learning predictive modeling techniques for Granite State College (GSC). The objective
+of this project is identifying factors which will help students become successful in their academic achievements and finding ways to improve
+students' retention rates. 
+*Working on UNH hockey team project with a team of 6 people for predicting players' performance. *Undertaken a
+summer project on ""Mapping and clustering of Chicago and Seattle city Crime"" and we could successfully classify categories with a 90% accuracy.
+Yitayew, Anteneh, Workineh
+GRADUATE STUDENT IN
+ 
+ï¼​ 
+City
+ 
+, 
+State
+April 2010
+Master of Science
+ 
+: 
+Environmental Science and Technology
+ 
+UNESCO-IHE
+ 
+ï¼​ 
+City
+ 
+The Netherlands
+ 
+Environmental Science and Technology
+July 2004
+Bachelor of Science
+ 
+: 
+Resource Management
+ 
+Debub University
+ 
+Ethiopia
+ 
+Resource Management
+Skills
+ASP.NET 4.5, academic, Clustering, consulting, curriculum development, customer satisfaction, data analysis, data mining, data warehouse,
+Databases, database, database design, database management, data warehousing, environmental protection, Environmental Science, GIS, HTML,
+instructor, Lecturer, legal, machine learning, managing, materials, meetings, C#, Microsoft SQL, modeling, Natural, Oracle, process development
+and engineering, processes, progress, Python, quality, researching, research, SAS, shipping, SPSS, SQL, Statistics, Tableau, teaching, technical
+support, workshops",6766,engineering and quality technician career overview a highly experienced skilled graduate with analytics degree with a very good experience in sas web scraping sql predictive modelling and data visualization excellent ability in identifying data requirements for analysis data cleaning munging and model building ensures the organization uses it effectively to reach profit and growth objectives comfortable with data handling modeling and coding and have an appreciation of what makes sense from a business standpoint more than six years of experience working as a researcher data analyst and environmental science and technology instructor experience in sql data warehousing maintaining securing and stabilizing data layers and testing to identify data and product defects introduced in the system customer segmentation product positioning and mapping and conjoint analysis modelling design and implement statistical predictive models and cutting edge algorithms utilizing diverse sources of data to predict diversified experience with engineering manufacturing retailing higher education and it data related companies fascinated by learning cutting edge technologies such as data mining and machine learning handled a team of during my years of tech experience and managed more than students and effectively evaluated the performance of each student and utilize assessment methods to judge overall progress during my teaching experience qualifications ability to identify uncovered information from hidden data and convert to a story and communicate effectively through visualization modelling using r sas python using pandas web scraping using beautiful soup in python databases like oracle and microsoft sql experience in asp net c and html statistical software like jmp spss gis visualization software like tableau ggplot r experience in database design for data warehousing environments modelling using random forests decision trees boosted trees etc modelling using shrinkage methods including ridge lasso and elastic net regression models dimension reduction using pca outlier analysis linear regression clustering techniques logistic regression work experience to engineering and quality technician company name city state planned performed and conducted semiconductor production process development and engineering designs as well as managed small projects and prepared statements and monitored project schedules identified product defects introduced in data warehouse by performing quality tests using sql and jmp co ordinated with scientists engineers manager analysts to understand the impacts due to defects and provided valuable information for product shipping and customer satisfaction managed multiple tasks and accomplished goals efficiently and per schedule with a strong work performance to meet the goals of the department monitored and adjusted semiconductor production process or and equipment for improving quality and productivity and achieved a higher performance rate for the fiscal year of provided technical support in developing building and testing prototypes new products processes and procedures and provided training and advice to other engineering technicians applied database management and data analysis methods which helped enhancing production efficiency and reduced costs for the department by in every quarter to company name lecturer in environmental science and technology effectively engaged in course curriculum development taught courses and engaged in research projects and community services on the areas of statistics gis and natural resource management developed course material that support the goal of the course including design of curriculum and schedule of instructions provided student with guidance in regards to their grades and progress in the course work and elected as best instructor of the college in established a gis laboratory facility with other staff members provided technical support for environmental remediation projects and for legal actions used sql and spss for managing student database and for analysis of data to company name assistant lecturer in natural resource management assisted in teaching researching and developing methods which helps in improving both the university and students performance highly engaged in curricular and extra curricular activities and community services established and coordinated nature and environmental protection club in the university developed teaching methodologies and techniques that added to the knowledge base and understanding of resource management by preparing teaching materials handouts and laboratory manuals engaged in major research projects of resources management which was undertaken in collaboration with universities ngos and engineering consulting companies served as lead of the college s audiovisual center and arranged workshops meetings and documented academic resources education and training may master of science analytics university of new hampshire usa analytics currently working on a project on mapping and clustering of student success using clustering data mining and machine learning predictive modeling techniques for granite state college gsc the objective of this project is identifying factors which will help students become successful in their academic achievements and finding ways to improve students retention rates working on unh hockey team project with a team of people for predicting players performance undertaken a summer project on mapping and clustering of chicago and seattle city crime and we could successfully classify categories with a accuracy yitayew anteneh workineh graduate student in city state april master of science environmental science and technology unesco ihe city the netherlands environmental science and technology july bachelor of science resource management debub university ethiopia resource management skills asp net academic clustering consulting curriculum development customer satisfaction data analysis data mining data warehouse databases database database design database management data warehousing environmental protection environmental science gis html instructor lecturer legal machine learning managing materials meetings c microsoft sql modeling natural oracle process development and engineering processes progress python quality researching research sas shipping spss sql statistics tableau teaching technical support workshops,"['python', 'machine learning', 'data analysis', 'sql', 'engineering', 'teaching', 'research', 'html', 'database management']",24.9284615540132,"['python', 'sql', 'data analysis', 'database management', 'research']","['excel', 'power bi', 'communication', 'problem solving']",55.55555555555556,43.30471795493862,5
+95792386,CONSULTANT,"CONSULTANT
+Summary
+Results-oriented California CPA who adapts seamlessly to constantly evolving accounting processes and technology.Â Capable at managing
+multiple projects and consistently meeting deadlines under pressure. Extensive knowledge of accounting software and processes.Â 
+Skills
+Complex problem solving
+Analytical reasoning
+Financial statement analysis
+SOX Compliance
+Business function consolidation
+Process re-engineering
+System requirement writing and implementation testing
+Outstanding interpersonal and organizational skills
+Excellent Oracle skills in all modules
+Oracle FSG report writing
+Advance Excel and Access proficiency
+High adaptabilityÂ to new technology
+Account reconciliation expert
+Experienced in revenue recognition
+Experience
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Consultant
+ 
+02/2014
+ 
+to 
+Current
+As a member of the special project team to bring client's offshore accounting function back to the U.S., I traveled overseas to thoroughly
+learn and understand the complex revenue recognition model and subsequently closed year end and provided training to client's U.S. team.
+The transition went smoothly and efficiently, and it was completed prior to the original target date.
+Engaged in client's divestiture process, responsible for training and transitioning of accounting 
+functionality from the client to the buyer,
+resulting a smooth transition of the sold business unit.
+Managed monthly maintenance and changes in Oracle Flexfields and Financial Statement Generator (FSG) to 
+ensure that financial reporting
+was accurate and reflected the up-to-date corporate rollups.
+As a member of the Oracle 12 upgrade team, created validation methodologies in order to ensure financial 
+reporting integrity.
+Served as a key contributor of the client's monthly and quarterly close and consolidation process, managed 
+and monitored the database of
+close tasks and journal entries, coordinated with various accounting groups to 
+ensure that each close was smooth and timely.
+Assisted the client in the quarterly and annual audit of financial information with external auditors.
+Stepped into the role of cost accounting at quarter end with only a few days of notice.
+In addition to 
+contributing to a successful quarter end, identified the weakness of existing Inventory and Cost Accounting 
+process, and
+recommended solutions and improvements.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Consultant
+ 
+01/2013
+ 
+to 
+01/2014
+Responsible for complex monthly revenue recognition, reporting, and trend analysis.
+Reviewed contracts to interpret, determine, implement, maintain royalty rate database, calculated and 
+performed royalty variance analysis.
+Monitored billing and royalty ratio to determine reasonableness and identify billing and royalty miss match, 
+which prevented incorrect
+billing/royalty payments.
+Reviewed monthly closing process, recommended improvements, and implemented work flow streamlining.
+Identified relevant reports, recommended methodologies, created new journal entries for mid-month close 
+due to a client company
+ownership change, and contributed to the timely completion of the acquisition.
+Utilizing my Accounting and IT hybrid experiences, I researched and identified source data of various 
+systems, designed and created tools
+which provided consolidated revenue and expense ratio analysis for the 
+management team.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+IT Business System Analyst
+ 
+01/2006
+ 
+to 
+01/2012
+As an Oracle Application ""customer facing"" resource, I liaised with project managers, enterprise architects, 
+business users, and various
+development teams to review, analyze, evaluate, and approve complex business 
+functional requirements.
+Partnered with stakeholders to forecast project costs and delivery time to ensure senior management's 
+successful prioritization of projects.
+Facilitated joint application design sessions with development teams and created ""business requirement 
+traceable"" system requirements, test
+cases, method of procedures, and short interval schedules, resulting in 
+efficient and timely delivery of projects.
+Coordinated design and system requirement approvals and maintained documents in DOORS system to 
+comply with IT SOX requirements.
+Actively communicated and participated in problem solving with IT release environment teams during 
+development, quality assurance, user
+acceptance testing, production, and post production warranty periods - 
+to achieve efficient transitions of various project phases.
+Supervisor of Revenue Accounting and Analysis 
+Managed three revenue accounting staff members, from their selection, operation and
+personal growth 
+development.
+Conducted one-on-one sessions on a regular basis and performed mid-year and annual reviews.
+Ensured timely and accurate reporting of service revenue/ARPU in accordance with various GAAP 
+accounting rules, and contributed to the
+effort of successfully shortening the company's revenue accounting 
+closing days from three weeks to four business days.
+Worked closely with the financial planning team on revenue trend analysis/forecasting, and the operation 
+team on preparation of
+documentation and development of revenue recognition methods for new products 
+and services.
+Cooperated with external auditors on quarterly and annual audits, and internal teams on SOX control testing 
+and documentation.
+Supervised and prepared accurate and timely reports/analysis for all aspects of the financial statements in 
+relation to revenue, deferred
+revenue, cost of revenue, and operation metrics.
+Prepared monthly reporting and analysis packages for the management team, and implemented an enhanced 
+financial system to streamline
+revenue reporting.Company Name
+ 
+City
+ 
+, 
+State
+ 
+Corporate Accountant
+ 
+01/2002
+ 
+to 
+01/2006
+Performed monthly closing, variance analysis, and reconciliation of complex accounts.
+Reviewed account balances/aging trends and provided flux analysis for internal financial reporting, 
+forecasting, and external audits.
+Participated and contributed account transaction data analysis during the Oracle 11i implementation.
+Communicated and cooperated with international and domestic subsidiaries to streamline the closing process.
+Prepared monthly fixed asset mass additions, deletions, depreciation, and inter-department asset transfers.
+Calculated and recorded monthly foreign exchange gains/losses.
+Reviewed and interpreted contracts and related accounting publications to ensure appropriate reporting of 
+various expenses.
+Documented and implemented accounting control procedures for Sarbanes-Oxley compliance.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Marketing Business Analyst/Accounting Manager
+ 
+01/2000
+ 
+to 
+01/2001
+Completed the Cisco/Vovida integration successfully with Cisco Acquisition teams.
+Facilitated cross-functional global sales meetings between the field and marketing teams resulting in 
+effective communication and timely
+resolution of major account issues.
+2 Renee Chen 
+Obtained, consolidated, and analyzed major account information from both the sales and marketing teams on 
+a continuing
+basis resulting in the availability of an up-to-date forecasting of quarterly sales revenues.
+Established the Vovida Networks, Inc.
+Accounting Department, recruited, trained/managed the staff 
+accountant, and implemented internal controls into a rapidly growing start-up
+environment.
+Provided revenue/expense budgeting, forecasting, and reporting.
+Cooperated with Cisco acquisition teams on the due diligence process, and closed the acquisition within a 
+month after the announcement.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Senior Accountant
+ 
+01/1999
+ 
+to 
+01/2000
+Responsible for general ledger analysis, monthly and year-end closing, and project revenue/cost analysis.
+Designed and prepared monthly actual/budget comparative financial statements for departmental managers, 
+senior executives, and the board
+of directors.
+Responsible for revenue and expense forecasting at both the corporate and departmental level.
+Responsible for reviewing and interpreting contracts to implement revenue recognition policies and 
+procedures per FASB guidelines.
+Facilitated tax returns and annual audits with CPA firms.
+Responsible for managing and maintaining the Platinum/FRS financial reporting system.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Associate Tax Analyst
+ 
+01/1998
+ 
+to 
+01/1999
+Performed financial statement auditing.
+Provided tax research and planning services for a variety of clients.
+Prepared complex quarterly and annual federal, state, local, property, and sales/use tax returns for multi-state 
+corporate clients.
+Assisted clients with their records and provided book-keeping services.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Corporate Tax Analyst
+ 
+01/1997
+ 
+to 
+01/1998
+Analyzed a variety of general ledger accounts and interpreted financial information to derive income/losses 
+for tax reporting purposes.
+Education and Training
+Master of Science
+ 
+:
+ 
+Accounting/Taxation
+ 
+San Francisco State University
+ 
+Accounting/Taxation Extensive course training in the fields of corporate
+finance, taxation, and business law.
+Bachelor of Science
+ 
+:
+ 
+Business Administration Accounting
+ 
+San Francisco State University
+ 
+Business Administration Accounting
+Coursework in accounting, finance, marketing, and information systems.
+Skills
+Accounting, accountant, Accounts Payable, Accounts Receivable, streamline, application design, auditing, billing, book-keeping, budgeting,
+budget, business law, business process, Cisco, closing, excellent communication, interpersonal skills, contracts, corporate finance, Cost
+Accounting, cost analysis, CPA, client, clients, data analysis, database, delivery, documentation, DOORS, due diligence, senior management,
+external audits, finance, Financial, financial planning, financial 
+reporting, financial reporting, financial statements, forecasting, foreign exchange,
+functional, General Ledger, general ledger accounts, information systems, Inventory, managing, marketing, meetings, enterprise, Networks, Oracle,
+Oracle Application, Oracle Financials, Oracle Financial, Platinum, policies, problem solving, publications, quality assurance, report 
+writing,
+reporting, requirement, revenue recognition, sales, Sarbanes-Oxley, Supervisor, system analyst, tax, tax research, tax returns, team player, trend,
+upgrade, validation, variance analysis, year-end
+Activities and Honors
+California CPA. 
+Completed the UC Santa Cruz Certificate of Project and Program Management. 
+Coursework in SQL and Relational Database. 
+3",10493,consultant summary results oriented california cpa who adapts seamlessly to constantly evolving accounting processes and technology capable at managing multiple projects and consistently meeting deadlines under pressure extensive knowledge of accounting software and processes skills complex problem solving analytical reasoning financial statement analysis sox compliance business function consolidation process re engineering system requirement writing and implementation testing outstanding interpersonal and organizational skills excellent oracle skills in all modules oracle fsg report writing advance excel and access proficiency high adaptability to new technology account reconciliation expert experienced in revenue recognition experience company name city state consultant to current as a member of the special project team to bring client s offshore accounting function back to the u s i traveled overseas to thoroughly learn and understand the complex revenue recognition model and subsequently closed year end and provided training to client s u s team the transition went smoothly and efficiently and it was completed prior to the original target date engaged in client s divestiture process responsible for training and transitioning of accounting functionality from the client to the buyer resulting a smooth transition of the sold business unit managed monthly maintenance and changes in oracle flexfields and financial statement generator fsg to ensure that financial reporting was accurate and reflected the up to date corporate rollups as a member of the oracle upgrade team created validation methodologies in order to ensure financial reporting integrity served as a key contributor of the client s monthly and quarterly close and consolidation process managed and monitored the database of close tasks and journal entries coordinated with various accounting groups to ensure that each close was smooth and timely assisted the client in the quarterly and annual audit of financial information with external auditors stepped into the role of cost accounting at quarter end with only a few days of notice in addition to contributing to a successful quarter end identified the weakness of existing inventory and cost accounting process and recommended solutions and improvements company name city state consultant to responsible for complex monthly revenue recognition reporting and trend analysis reviewed contracts to interpret determine implement maintain royalty rate database calculated and performed royalty variance analysis monitored billing and royalty ratio to determine reasonableness and identify billing and royalty miss match which prevented incorrect billing royalty payments reviewed monthly closing process recommended improvements and implemented work flow streamlining identified relevant reports recommended methodologies created new journal entries for mid month close due to a client company ownership change and contributed to the timely completion of the acquisition utilizing my accounting and it hybrid experiences i researched and identified source data of various systems designed and created tools which provided consolidated revenue and expense ratio analysis for the management team company name city state it business system analyst to as an oracle application customer facing resource i liaised with project managers enterprise architects business users and various development teams to review analyze evaluate and approve complex business functional requirements partnered with stakeholders to forecast project costs and delivery time to ensure senior management s successful prioritization of projects facilitated joint application design sessions with development teams and created business requirement traceable system requirements test cases method of procedures and short interval schedules resulting in efficient and timely delivery of projects coordinated design and system requirement approvals and maintained documents in doors system to comply with it sox requirements actively communicated and participated in problem solving with it release environment teams during development quality assurance user acceptance testing production and post production warranty periods to achieve efficient transitions of various project phases supervisor of revenue accounting and analysis managed three revenue accounting staff members from their selection operation and personal growth development conducted one on one sessions on a regular basis and performed mid year and annual reviews ensured timely and accurate reporting of service revenue arpu in accordance with various gaap accounting rules and contributed to the effort of successfully shortening the company s revenue accounting closing days from three weeks to four business days worked closely with the financial planning team on revenue trend analysis forecasting and the operation team on preparation of documentation and development of revenue recognition methods for new products and services cooperated with external auditors on quarterly and annual audits and internal teams on sox control testing and documentation supervised and prepared accurate and timely reports analysis for all aspects of the financial statements in relation to revenue deferred revenue cost of revenue and operation metrics prepared monthly reporting and analysis packages for the management team and implemented an enhanced financial system to streamline revenue reporting company name city state corporate accountant to performed monthly closing variance analysis and reconciliation of complex accounts reviewed account balances aging trends and provided flux analysis for internal financial reporting forecasting and external audits participated and contributed account transaction data analysis during the oracle i implementation communicated and cooperated with international and domestic subsidiaries to streamline the closing process prepared monthly fixed asset mass additions deletions depreciation and inter department asset transfers calculated and recorded monthly foreign exchange gains losses reviewed and interpreted contracts and related accounting publications to ensure appropriate reporting of various expenses documented and implemented accounting control procedures for sarbanes oxley compliance company name city state marketing business analyst accounting manager to completed the cisco vovida integration successfully with cisco acquisition teams facilitated cross functional global sales meetings between the field and marketing teams resulting in effective communication and timely resolution of major account issues renee chen obtained consolidated and analyzed major account information from both the sales and marketing teams on a continuing basis resulting in the availability of an up to date forecasting of quarterly sales revenues established the vovida networks inc accounting department recruited trained managed the staff accountant and implemented internal controls into a rapidly growing start up environment provided revenue expense budgeting forecasting and reporting cooperated with cisco acquisition teams on the due diligence process and closed the acquisition within a month after the announcement company name city state senior accountant to responsible for general ledger analysis monthly and year end closing and project revenue cost analysis designed and prepared monthly actual budget comparative financial statements for departmental managers senior executives and the board of directors responsible for revenue and expense forecasting at both the corporate and departmental level responsible for reviewing and interpreting contracts to implement revenue recognition policies and procedures per fasb guidelines facilitated tax returns and annual audits with cpa firms responsible for managing and maintaining the platinum frs financial reporting system company name city state associate tax analyst to performed financial statement auditing provided tax research and planning services for a variety of clients prepared complex quarterly and annual federal state local property and sales use tax returns for multi state corporate clients assisted clients with their records and provided book keeping services company name city state corporate tax analyst to analyzed a variety of general ledger accounts and interpreted financial information to derive income losses for tax reporting purposes education and training master of science accounting taxation san francisco state university accounting taxation extensive course training in the fields of corporate finance taxation and business law bachelor of science business administration accounting san francisco state university business administration accounting coursework in accounting finance marketing and information systems skills accounting accountant accounts payable accounts receivable streamline application design auditing billing book keeping budgeting budget business law business process cisco closing excellent communication interpersonal skills contracts corporate finance cost accounting cost analysis cpa client clients data analysis database delivery documentation doors due diligence senior management external audits finance financial financial planning financial reporting financial reporting financial statements forecasting foreign exchange functional general ledger general ledger accounts information systems inventory managing marketing meetings enterprise networks oracle oracle application oracle financials oracle financial platinum policies problem solving publications quality assurance report writing reporting requirement revenue recognition sales sarbanes oxley supervisor system analyst tax tax research tax returns team player trend upgrade validation variance analysis year end activities and honors california cpa completed the uc santa cruz certificate of project and program management coursework in sql and relational database,"['data analysis', 'sql', 'excel', 'communication', 'accounting', 'auditing', 'taxation', 'engineering', 'problem solving', 'sales', 'marketing', 'research']",7.581402970371171,"['sql', 'excel', 'data analysis', 'communication', 'problem solving', 'research']","['python', 'power bi', 'database management']",66.66666666666666,43.03256118814846,6
+12351749,SALES,"SALES COORDINATOR
+Summary
+Current MS of Data Analytics graduate student with exposure to data analysis and modeling 
+skills. Seeking evolutionary role in analytics that will
+allow to adapt and change to company 
+and problem solving needs.
+Skills
+Excellent quantitative skills 
+Advanced MS Office
+Suite knowledge
+Strong knowledge of R, Excel 
+Advanced Excel
+modeling
+Excellent research skills 
+Business systems
+analysis
+Knowledge of statistical analysis and 
+Superb
+communication skills
+Algorithm development Business Domain, Statistics and Interpretation, Mining,
+predictive analysis, and coding
+Visualization and exploration, Data Analyst, RStudio, Tableau, Data Collection,
+Machine Learning, C++
+Â Report Generation
+Education and Training
+Master of Science
+ 
+, 
+Data Analytics
+ 
+2018
+ 
+University of Houston
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Data Analytics
+BBA
+ 
+, 
+Finance
+ 
+2005
+ 
+University of Houston
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Finance
+Finance
+Experience
+Sales Coordinator
+ 
+Jul 2016
+ 
+to 
+May 2017
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Heavy cold calling to new and existing oil and gas, energy, and aerospace clientele to 
+increase revenue and market penetration Managed a
+portfolio of 250 accounts that 
+generated 36% of increased proposals in 4 months.
+Conducted business to business telephone sales.
+Researched sales and contact information for prospects and created reports for business development managers
+Inside Sales Representative
+ 
+Aug 2015
+ 
+to 
+Feb 2016
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Prioritized daily workflows, including all inbound calls, quotes and sales-related 
+inquiries.
+Wrote sales contracts for orders obtained and submitted orders for processing.
+Achieved 170% of first 90 day quota, earning 2nd highest rookie quarter in 21 year 
+company history.
+Prioritized daily workflows, including all inbound calls, quotes and sales-related 
+inquiries.
+Emphasized product features based on analysis of customers' needs.
+Inside Sales Representative
+ 
+Sep 2014
+ 
+to 
+May 2015
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Developed competitive comparison tables of steel grating pricing, fees, ratings, 
+category and product performance to use for account sales
+calls.
+Created sales contacts with on- and off-premise accounts.
+Built client relationships by acting as the liaison between the drafting and sales teams.
+Consulted with clients after sales and contract signings to resolve problems and provide 
+ongoing support.
+Recruiter
+ 
+Feb 2007
+ 
+to 
+Oct 2014
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Developed creative recruiting strategies that met small to mid-sized broker dealer 
+staffing needs.
+Managed all aspects of advisor transition cycle, from initial set to on boarding.
+Served as link between broker dealer and advisor by handling questions, interpreting 
+contracts, and resolving transition issues.
+Memberships/Scholarly Societies 
+University of Houston- Downtown Analytics Society.
+Skills
+Business systems analysis, C++, cold calling, communication skills, competitive, contracts, credit, clientele, client, clients, Data Analyst, Data
+Collection, database, drafting, features, Finance, financial, financial statements, Interpretation, Machine Learning, market, Excel, Money, MS
+Office Suite, modeling, oil, outside sales, pricing, Coding, proposals, recruiting, research, sales, staffing, statistical analysis, Statistics, Tableau,
+tables, telephone, underwriter",3383,sales coordinator summary current ms of data analytics graduate student with exposure to data analysis and modeling skills seeking evolutionary role in analytics that will allow to adapt and change to company and problem solving needs skills excellent quantitative skills advanced ms office suite knowledge strong knowledge of r excel advanced excel modeling excellent research skills business systems analysis knowledge of statistical analysis and superb communication skills algorithm development business domain statistics and interpretation mining predictive analysis and coding visualization and exploration data analyst rstudio tableau data collection machine learning c report generation education and training master of science data analytics university of houston city state data analytics bba finance university of houston city state finance finance experience sales coordinator jul to may company name city state heavy cold calling to new and existing oil and gas energy and aerospace clientele to increase revenue and market penetration managed a portfolio of accounts that generated of increased proposals in months conducted business to business telephone sales researched sales and contact information for prospects and created reports for business development managers inside sales representative aug to feb company name city state prioritized daily workflows including all inbound calls quotes and sales related inquiries wrote sales contracts for orders obtained and submitted orders for processing achieved of first day quota earning nd highest rookie quarter in year company history prioritized daily workflows including all inbound calls quotes and sales related inquiries emphasized product features based on analysis of customers needs inside sales representative sep to may company name city state developed competitive comparison tables of steel grating pricing fees ratings category and product performance to use for account sales calls created sales contacts with on and off premise accounts built client relationships by acting as the liaison between the drafting and sales teams consulted with clients after sales and contract signings to resolve problems and provide ongoing support recruiter feb to oct company name city state developed creative recruiting strategies that met small to mid sized broker dealer staffing needs managed all aspects of advisor transition cycle from initial set to on boarding served as link between broker dealer and advisor by handling questions interpreting contracts and resolving transition issues memberships scholarly societies university of houston downtown analytics society skills business systems analysis c cold calling communication skills competitive contracts credit clientele client clients data analyst data collection database drafting features finance financial financial statements interpretation machine learning market excel money ms office suite modeling oil outside sales pricing coding proposals recruiting research sales staffing statistical analysis statistics tableau tables telephone underwriter,"['machine learning', 'data analysis', 'excel', 'communication', 'problem solving', 'sales', 'research', 'communication skills']",19.103541983522874,"['excel', 'data analysis', 'communication', 'problem solving', 'research']","['python', 'sql', 'power bi', 'database management']",55.55555555555556,40.974750126742485,7
+24610685,SALES,"SALES ENGINEER
+Summary
+I am currently looking to advance my career in a position that offers a greater challenge, and the opportunity to enhance the company's productivity
+and reputation. With my educational background and the experience which I have gained in my previous position, I can effectively connect with
+customers, sales team, and the professional services department.
+Skills
+Strong analytical skills
+Excellent communication skills
+Strong interpersonal skills
+Critical thinker
+Data mining
+Data quality
+Data warehousing
+Database management
+Experience
+Sales Engineer
+ 
+November 2016
+ 
+to 
+May 2017
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Deliver insight to clients via Webex about Mirth Solutions, primarily Mirth Connect, appliances and other NextGen Product solutions.
+Prepare a sales reports via salesforce by collecting, analyzing, and summarizing sales information and R&D and application trends.
+Provide expert level product consultation to align implementation deliverables with client expectations and sales objectives.
+Perform current state reviews and future state recommendations to enhance productivity and increase ROI.
+Achieved organizational objectives for the development and delivery of complex, multi-product proposals such as quotes, RFP's, and
+SOW's; to be delivered within timely and accurate manner.
+Review all proposals, whether by writing new content, editing technical content, and coaching other team members while ensuring that the
+proposal was compliant, compelling and aligned to client requirements and business drivers.
+EHR Application Specialist
+ 
+April 2014
+ 
+to 
+March 2016
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Reviewed and analyzed pre-existing artifacts and associated applications to understand as-is process.
+Troubleshoot EHR/EMR case for Hosted clients by locating, reproducing issue, and using SQL Server Management Studio, SQL
+Statements, SQL Profiler, SQL Tracing.
+Communicate with development team regarding the application Defects and Enhancement Request while working with the support team to
+ensure the team meets goals at all times.
+Analyze and independently identify complex problems within the content-based software and/or a stakeholder's data to create requirements.
+Exercise independent judgment to determine the appropriate course of action to be taken based on the analysis performed and all possible
+solutions in order to determine the most appropriate way to define requirements.
+Xaxis, (24/7 Media.
+Business Data Analyst
+ 
+December 2013
+ 
+to 
+January 2014
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Monitor, Analyzing, and Optimizing campaigns via Open Ad Stream (Ad Server), AppNexus, and Saleforce while being an expert on all
+areas of the sites and be able to make recommendations on placements based on key categories and clients.
+Understand the varied needs of and specific business objectives/goals of Client.
+Analyzing and identifying the trends and/or issues within data, and be able to make changes and/or recommendations to optimize.
+Perform regular quality checks (QC) of large data sets and large data loads through Oracle.
+Extracted, compiled and tracked data, and analyzed data to generate reports using advanced Excel functions to generate spreadsheets and
+pivot tables.
+Manage deliverables and requests for new retailers, items and data coverage.
+Data management tasks including receiving retail data from partners, data scrubbing, data loading into OAS application, data attribution and
+mapping.
+Education and Training
+B.S
+ 
+: 
+Business Administration, Management & Marketing Option
+ 
+, 
+May 2014
+ 
+The Pennsylvania State University
+ 
+Business Administration,
+Management & Marketing Option 3.51 Dean's List (6)
+Master of Professional Studies in Data Analytics â€“ Business Analytics Option 
+, 
+2018
+ 
+The Pennsylvania State University 
+ï¼​ 
+City
+ 
+, 
+State
+Master of Professional Studies
+ 
+: 
+Data Analytics - Business Analytics Option
+ 
+, 
+Present
+ 
+The Pennsylvania State University
+ 
+Data Analytics - Business
+Analytics Option 3.71
+Marketing Assistant
+ 
+, 
+October 2014
+ 
+I.C.A.P (Indian Cultural Association of Pennsylvania)
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Marketing Assistant Complete event
+planning by analyzing budgetary constraints *Gain communication and relationship building skills while interacting with members during event setups
+*Market events through social media, while marketing the brand through self-branding
+Interests
+SASA (South Asian Student Association), Penn State Abington 
+Vice President / Event Coordinator / Technical analysis 
+September 2010 - May
+2014 *Plan events to increase communication and cultural awareness on campus and in the community *Participate in strategic planning meetings
+for the future of the organization and technical analysis of theatrical graphics aspects of events such as designing fliers, brochures, invitations, and
+profiles.
+LanguagesTrilingual - English, Hindi, and Guajarati
+Technical Qualifications
+Communication: Trilingual â€“ English, Hindi, and Gujarati
+Documentation Tools: Microsoft Office Suite, Enterprise Architect
+Project Management: JIRA, Rally Methodologies: SDLC, Agile, and Scrum
+Language Familiarity: SQL, CSS, JavaScript, XML, HTML, XHTML, and HTML5
+Data BI Tools: Tableau, R, SAS, and Excel
+Database Tools: MySQL, Microsoft SQL Server, and Oracle
+Network Software: Citric and MS Remote desktop
+CRM Applications: Salesforce, and Service Desk Enterprise
+Operating Systems: Windows XP/Vista/7/8/, Mac OSX 10, iOS, Android
+Additional Information
+SASA (South Asian Student Association), Penn State Abington 
+Vice President / Event Coordinator / Technical analysis 
+September 2010 -
+May 2014 *Plan events to increase communication and cultural awareness on campus and in the community *Participate in strategic
+planning meetings for the future of the organization and technical analysis of theatrical graphics aspects of events such as designing fliers,
+brochures, invitations, and profiles.",5932,sales engineer summary i am currently looking to advance my career in a position that offers a greater challenge and the opportunity to enhance the company s productivity and reputation with my educational background and the experience which i have gained in my previous position i can effectively connect with customers sales team and the professional services department skills strong analytical skills excellent communication skills strong interpersonal skills critical thinker data mining data quality data warehousing database management experience sales engineer november to may company name city state deliver insight to clients via webex about mirth solutions primarily mirth connect appliances and other nextgen product solutions prepare a sales reports via salesforce by collecting analyzing and summarizing sales information and r d and application trends provide expert level product consultation to align implementation deliverables with client expectations and sales objectives perform current state reviews and future state recommendations to enhance productivity and increase roi achieved organizational objectives for the development and delivery of complex multi product proposals such as quotes rfp s and sow s to be delivered within timely and accurate manner review all proposals whether by writing new content editing technical content and coaching other team members while ensuring that the proposal was compliant compelling and aligned to client requirements and business drivers ehr application specialist april to march company name city state reviewed and analyzed pre existing artifacts and associated applications to understand as is process troubleshoot ehr emr case for hosted clients by locating reproducing issue and using sql server management studio sql statements sql profiler sql tracing communicate with development team regarding the application defects and enhancement request while working with the support team to ensure the team meets goals at all times analyze and independently identify complex problems within the content based software and or a stakeholder s data to create requirements exercise independent judgment to determine the appropriate course of action to be taken based on the analysis performed and all possible solutions in order to determine the most appropriate way to define requirements xaxis media business data analyst december to january company name city state monitor analyzing and optimizing campaigns via open ad stream ad server appnexus and saleforce while being an expert on all areas of the sites and be able to make recommendations on placements based on key categories and clients understand the varied needs of and specific business objectives goals of client analyzing and identifying the trends and or issues within data and be able to make changes and or recommendations to optimize perform regular quality checks qc of large data sets and large data loads through oracle extracted compiled and tracked data and analyzed data to generate reports using advanced excel functions to generate spreadsheets and pivot tables manage deliverables and requests for new retailers items and data coverage data management tasks including receiving retail data from partners data scrubbing data loading into oas application data attribution and mapping education and training b s business administration management marketing option may the pennsylvania state university business administration management marketing option dean s list master of professional studies in data analytics business analytics option the pennsylvania state university city state master of professional studies data analytics business analytics option present the pennsylvania state university data analytics business analytics option marketing assistant october i c a p indian cultural association of pennsylvania city state marketing assistant complete event planning by analyzing budgetary constraints gain communication and relationship building skills while interacting with members during event setups market events through social media while marketing the brand through self branding interests sasa south asian student association penn state abington vice president event coordinator technical analysis september may plan events to increase communication and cultural awareness on campus and in the community participate in strategic planning meetings for the future of the organization and technical analysis of theatrical graphics aspects of events such as designing fliers brochures invitations and profiles languagestrilingual english hindi and guajarati technical qualifications communication trilingual english hindi and gujarati documentation tools microsoft office suite enterprise architect project management jira rally methodologies sdlc agile and scrum language familiarity sql css javascript xml html xhtml and html data bi tools tableau r sas and excel database tools mysql microsoft sql server and oracle network software citric and ms remote desktop crm applications salesforce and service desk enterprise operating systems windows xp vista mac osx ios android additional information sasa south asian student association penn state abington vice president event coordinator technical analysis september may plan events to increase communication and cultural awareness on campus and in the community participate in strategic planning meetings for the future of the organization and technical analysis of theatrical graphics aspects of events such as designing fliers brochures invitations and profiles,"['data analysis', 'sql', 'excel', 'communication', 'project management', 'sales', 'marketing', 'html', 'css', 'javascript', 'database management', 'communication skills']",16.60562456656706,"['sql', 'excel', 'data analysis', 'database management', 'communication']","['python', 'power bi', 'problem solving', 'research']",55.55555555555556,39.97558315996016,8
+10265057,INFORMATION-TECHNOLOGY,"WORKING RF SYSTEMS ENGINEER
+Qualifications
+Microsoft office/Office for Mac, pages, numbers, keynote Â· RF/Microwave software: Ansoft Designer, AWR Microwave Office. Â· RF test
+instruments: Spectrum analyzer, Vector Network/Signal Analyzer, Logic Analyzer, etc. Â· Programming language: C/C++, Python, Java,
+Matlab, and LabView Â· Circuit design software: SPICE, NI Multisim Â· PCB design software: Eagle, PCB Artiest
+Experience
+Working 
+RF Systems Engineer
+ 
+May 2014
+ 
+to 
+Current
+ 
+Company Name
+Qualification 
+Â· Multidisciplinary background: RF hardware designs, manufacturing operations and data analyst.
+Summary 
+Â· Experienced in developing hardware's DFM procedures, checklists and requirements to subcontractors Â· Perform EVT,
+DVT, PVT verifications and utilize FA process to drive root cause from system to unit level Â· Team leader on multiple end-to-end
+technical project design, development, testing and validation Â· Manage Test/Production readiness reviews and drives quality requirement
+for post-ramp qualification Â· Ability to manage multiple projects simultaneously, self-starter with innovation and sharp attention to details
+Experiences 
+- New RF systems introduction on satellite communication architecture designs and proposals - Define RF hardware unit DFM
+procedures and requirements for Antenna, receivers, filters, and amplifiers - Lead suppliers by providing technical design specifications and
+testing requirements to meet SSL standards - Utilize FA process to monitor overall project field performance.
+Audits and DFM reviews on-site with suppliers - Investigated the algorithm to optimize the overall RF system performance for design,
+manufacturing and testing - Perform EVT, DVT and PVT validations and quality measurements for satellite assembly at system and unit
+levels - Drive and track closure on any RF components and modules NCs and issues impact to production readiness - Work with cross-
+functional teams to execute completion of satellite system design to fulfill contract requirement - Generate cascade RF performance
+prediction analyses (i.e.
+NF, Gain, IP3, 1dB-Comp, spurious, etc) - Exercises independent judgment in developing methods, techniques, and evaluation criterion for
+obtaining results - Monitor and measure manufacturing processes to reduce losses, decrease time span and improve quality.
+System Data Analyst
+ 
+August 2011
+ 
+to 
+December 2013
+ 
+Company Name
+Prioritize and extract big data from Purdue University's SQL database and maintain its accuracy and completeness - Develop and
+implement data collection systems strategies that optimize statistical efficiency and data quality - Data manipulation language SQL
+commands and utilize statistical tools including Excel, SAS, and SPSS.
+Create complex charts and temporarily databases, perform data mining, and develop pivot tables for publication - Design and customize
+reports based upon data structure and determine additional data collection requirements - Provide documentation based on audit and report
+criteria to investigators and research staff - Serve as a resource for non-routine inquiries such as requests for statistics or surveys.
+Electrical/Validation Engineer
+ 
+May 2011
+ 
+to 
+August 2011
+ 
+Company Name
+Develop and maintain data requirement for PCBA EVT, DVT, and PVT assembly for touch-pads - Design and implement automated test
+for sensitivity, packrat, hovering, profiles, ripple, GSM, EMI, and ESD - Monitor manufacturer IC packaging test yields and field return
+failure data to identify root cause - Develop in-depth reliability testing procedures: storage, thermal stock, drop and tap tests - Perform
+debug and troubleshooting of product in house and at contract manufacturer site for support - Contribute in manufacturing diagnostic
+reviews to improve overall debug process more efficiently and effectively - Support internal and external customer related to lab data
+collection and verification of an application issue.
+Education
+M.S
+ 
+: 
+Electrical and Computer Engineering
+ 
+, 
+Dec. 2013
+ 
+PURDUE UNIVERSITY
+ 
+GPA: 
+GPA: 3.9/4.0
+ 
+Electrical and Computer Engineering GPA:
+3.9/4.0
+B.S
+ 
+: 
+Electrical and Computer Engineering
+ 
+, 
+Dec. 2011
+ 
+GPA: 
+GPA: 3.2/4.0
+ 
+Electrical and Computer Engineering GPA: 3.2/4.0 Thesis 
+The Design
+and Evaluation of a 5.8 GHz Laptop-Based Radar System Publication 
+Â· Innovative laptop radar design to operate in both FMCW and CW
+mode Â· Doppler shift (DTI), ranging (RTI), and SAR measurement capability Â· Operate in ISM frequency band with +13dBm transmitting
+power Â· Data acquisition and signal processing using Matlab
+Skills
+big data, C, C++, charts, Circuit design, hardware, Data acquisition, data analyst, data collection, data mining, databases, database, dBm, DTI,
+design software, documentation, functional, GSM, innovation, Java, LabView, Team leader, Logic Analyzer, Mac, manufacturing processes,
+Matlab, Excel, Microsoft office, Office, Microwave, Radar, NCs, Network, dB, packaging, pivot tables, Programming, project design, proposals,
+Publication, Python, quality, requirement, research, SAS, self-starter, Spectrum analyzer, SPSS, SQL, SSL, statistics, surveys, system design,
+troubleshooting, validation",5192,working rf systems engineer qualifications microsoft office office for mac pages numbers keynote rf microwave software ansoft designer awr microwave office rf test instruments spectrum analyzer vector network signal analyzer logic analyzer etc programming language c c python java matlab and labview circuit design software spice ni multisim pcb design software eagle pcb artiest experience working rf systems engineer may to current company name qualification multidisciplinary background rf hardware designs manufacturing operations and data analyst summary experienced in developing hardware s dfm procedures checklists and requirements to subcontractors perform evt dvt pvt verifications and utilize fa process to drive root cause from system to unit level team leader on multiple end to end technical project design development testing and validation manage test production readiness reviews and drives quality requirement for post ramp qualification ability to manage multiple projects simultaneously self starter with innovation and sharp attention to details experiences new rf systems introduction on satellite communication architecture designs and proposals define rf hardware unit dfm procedures and requirements for antenna receivers filters and amplifiers lead suppliers by providing technical design specifications and testing requirements to meet ssl standards utilize fa process to monitor overall project field performance audits and dfm reviews on site with suppliers investigated the algorithm to optimize the overall rf system performance for design manufacturing and testing perform evt dvt and pvt validations and quality measurements for satellite assembly at system and unit levels drive and track closure on any rf components and modules ncs and issues impact to production readiness work with cross functional teams to execute completion of satellite system design to fulfill contract requirement generate cascade rf performance prediction analyses i e nf gain ip db comp spurious etc exercises independent judgment in developing methods techniques and evaluation criterion for obtaining results monitor and measure manufacturing processes to reduce losses decrease time span and improve quality system data analyst august to december company name prioritize and extract big data from purdue university s sql database and maintain its accuracy and completeness develop and implement data collection systems strategies that optimize statistical efficiency and data quality data manipulation language sql commands and utilize statistical tools including excel sas and spss create complex charts and temporarily databases perform data mining and develop pivot tables for publication design and customize reports based upon data structure and determine additional data collection requirements provide documentation based on audit and report criteria to investigators and research staff serve as a resource for non routine inquiries such as requests for statistics or surveys electrical validation engineer may to august company name develop and maintain data requirement for pcba evt dvt and pvt assembly for touch pads design and implement automated test for sensitivity packrat hovering profiles ripple gsm emi and esd monitor manufacturer ic packaging test yields and field return failure data to identify root cause develop in depth reliability testing procedures storage thermal stock drop and tap tests perform debug and troubleshooting of product in house and at contract manufacturer site for support contribute in manufacturing diagnostic reviews to improve overall debug process more efficiently and effectively support internal and external customer related to lab data collection and verification of an application issue education m s electrical and computer engineering dec purdue university gpa gpa electrical and computer engineering gpa b s electrical and computer engineering dec gpa gpa electrical and computer engineering gpa thesis the design and evaluation of a ghz laptop based radar system publication innovative laptop radar design to operate in both fmcw and cw mode doppler shift dti ranging rti and sar measurement capability operate in ism frequency band with dbm transmitting power data acquisition and signal processing using matlab skills big data c c charts circuit design hardware data acquisition data analyst data collection data mining databases database dbm dti design software documentation functional gsm innovation java labview team leader logic analyzer mac manufacturing processes matlab excel microsoft office office microwave radar ncs network db packaging pivot tables programming project design proposals publication python quality requirement research sas self starter spectrum analyzer spss sql ssl statistics surveys system design troubleshooting validation,"['python', 'java', 'sql', 'excel', 'communication', 'auditing', 'engineering', 'research']",15.498630899099453,"['python', 'sql', 'excel', 'communication', 'research']","['power bi', 'data analysis', 'database management', 'problem solving']",55.55555555555556,39.53278569297312,9
+26801767,INFORMATION-TECHNOLOGY,"DIRECTOR, INFORMATION TECHNOLOGY
+Professional Summary
+Results-driven IT director with over 30 years of experience in diverse industries, including Port and Higher Education. Expertise includes team
+leadership, technical architecture, training and development, disaster recovery planning, and information protection analysis. Dynamic, resourceful,
+and extremely driven individual with a deep passion for creating and delivering programs and solutions that empower a team, company, and
+customer to meet and exceed desired expectations.
+Core Qualifications
+IT management
+Results-oriented
+Operations management
+Budget administration
+Change management
+Problem resolution
+Team leadership
+Decisive leader
+Cost reduction
+Experience
+Director, Information Technology
+ 
+August 2008
+ 
+to 
+Current
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Manages information technology computer center for the Board of Commissioners of the Port of New Orleans (Board).
+Develops, initiates, implements and monitors procedures necessary to determine the need for improvement of the system and operational
+activities.
+Makes recommendations on the acquisition, lease or rental of equipment and computer services, the development and implementation of
+new data processing programs and the expansion of existing equipment and programs.
+Provide information and recommendations to the Port's management relevant to the establishment of priorities for prospective system
+applications.
+Develops and/or revises data and practices concerning plan and procedures consistent with agency goals and objectives in the information
+communications fields.
+Formulates requests for bid and requests for proposals for major and minor I.T. professional services and hardware contracts.
+Directly involved in vendor selection and final contract negotiations and approvals.
+Supervises information technology and telecommunication staff and provides guidance and direction of daily activities.
+Develops and supervises the work of system project consultants.
+Provides consulting services to all Port departments and divisions concerning information systems, new programs and data processing.
+Develops form management procedures and reviews and justifies current practices.
+Evaluates existing manual and automated information-related activities including physical work environment, administrative procedures and
+work flows.
+Represents the Board of Commissioners on national and international committees and conferences as necessary.
+Prepares hardware, software and personnel budgets for the I.T. department.
+Staying abreast of the new technologies, doing cost/benefit analysis of these technologies and the incorporation of these technologies into the
+budgeting process.
+Participates in formulating Board's current and future I.T. short and long term strategic planning including PC networking, Email, IBM
+ISeries Support, INTERNET, Imaging, Computer Aided Software Engineering, Communication Protocols, EDI, GIS etc.
+Reviews and makes recommendations to management on the use and control of mainframe data processing systems for internal operations,
+and for servicing the maritime community in the movement of cargo through the Port.
+Assures that software utilizing the mainframe and remote computer local area, wide area network equipment are protected and secure
+against viruses, outside intrusion and cyber-attack.
+Supervise the development of long range plans for the use of data processing equipment by the Board, related private sector firms and
+government agencies.
+Assure the confidentiality of priority data and supervise the distribution of that data to the appropriate public and private sector recipients.
+Coordinates the flow of information among in-house departments, private sector maritime interests, U.S. Customs and other agencies.
+Oversees a large repertoire of sophisticated application software.
+Interface with representatives of local, national and international maritime, and government agencies, offices and firms concerning the
+technical requirements and operation and benefits of the system.
+Reviews, coordinates and makes recommendations to Board management and maritime interests on data transmission requirements.
+Monitors the preparation of reports submitted to Board management, the private sector and governmental agencies on data processing and
+technology issues.
+Keeps abreast of changes in the maritime industry as it affects the movement of bulk, general and containerized cargo and the flow of
+electronic communications.
+In charge of all telephone services required by the Board.
+This includes the main administrative phone switch and sub-switches and all cell and broadband services.
+Define scope of work and specifications for Hardware and software needs for Homeland Security Grant Investment Justifications from
+2008 to present.
+FAS system repair and updates, Building Access Command and Control, Security Camera Projects (Portwide and Cruise Terminals),
+Wireless Backbone Infrastructure Portwide, MSCO provisioning, Mobile Command Center Repair and Upgrade, Underwater inspection
+vehicle and equipment, 
+Technology Installation on the Harbor Police Patrol Boat, Integration of Command Bridge Incident Control servers,GIS server implementation.
+Associate Vice-President for Information Technology and Telecommunication
+ 
+April 1980
+ 
+to 
+October 2004
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Oversight responsibility for staff of 22 people, including 19 professionals.
+Created and managed the Office of Information Technology.
+Developed and implemented the Strategic Plan for the Office of Information Technology.
+Awarded and directed $1.2 million grant to install the telecommunications fiber optic infrastructure for university.
+Integrated the Management Information System department and the Telecommunication department into one cohesive department.
+Provided data and communication services to entire university community; implemented university-wide operation of telephone, PBX, voice
+and data wireless communications.
+Developed administrative system for all users to become proficient in these areas.
+Ensured data integrity and responsibility, standardizing ways and means of data collection, thereby maintaining the integrity of inputs and
+outcomes.
+Created a filtering process to recognize viruses before they infect systems and thus established a reliable network free of viruses and spam.
+Implemented effective customer service, customized to suit individual needs, ensuring that all users were standardized for smooth
+communication with one another.
+Created inclusive, customer-friendly, telecommunications climate, ensuring that students were respected equally with faculty.
+Implemented comprehensive university system, increasing the number of telecommunication units from 324 to more than 2,000.
+Increased number of computer labs from two to nine, ensuring dramatic increase in resources to students without increasing staff.
+Education
+Ph.D
+ 
+: 
+Coastal Oceanography
+ 
+, 
+1996
+ 
+State University of New York
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+, 
+USA
+Coastal Oceanography
+M.S
+ 
+: 
+Computer Science
+ 
+Marine Sciences Research Center 
+School of Marine and Atmospheric Sciences
+ 
+Computer Science
+B.S
+ 
+: 
+Mathematics
+ 
+University of Evansville
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Mathematics
+Xavier University
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Professional Affiliations
+*Member of AAPA Information Technology Committee
+*Represented the University President at Southern Educational Foundation
+*Member of the Instructional Technology Assistance Project (ITAP) team
+*Participated in Educational Leadership Council
+*Served on Academic Computing Committee.
+Accomplishments
+MCSE (Microsoft Certified Systems Engineer)
+LDCCA Certified Installer for Fiber Optic and Category 5/5E
+Certified Construction Quality Management for Contractors by U.S. Army Core of Engineers
+Wireless Network Auditing Training System
+Forensics, Investigation & Response Training Hacker Techniques, Exploits and Incident Handling Training Accreditation
+Skills
+academic, administrative, agency, Basic, benefits, broadband, budgeting, budgets, Cobol, Hardware, computer applications, conferences,
+consulting, contract negotiations, contracts, customer service, data analysis, data collection, Data Processing, Database Management, DBase IV,
+direction, EDI, Email, features, Fortran, GIS, government, grants, IBM, IBM compatible, Imaging, Information Systems, Information Technology,
+inspection, interpretation, laser, Macintosh, mainframe, MapInfo, Mathematics, Access, MS Excel, Office, Management Information System,
+Monitors, natural, Naval, network, Novell Netware, Oil, Operating Systems, Pascal, PBX, PC networking, personnel, Camera, Police,
+Programming, proposals, Protocols, radio, real-time, reception, relational database, Research, RPG III, servers, Shell, Software Engineering,
+Strategic, strategic planning, SUN SPARC, switches, switch, telecommunications, Telecommunication, telephone, phone, transmission, UNIX and
+C, UNIX, Upgrade, Vax, VMS, voice and data, wide area network, written
+Additional InformationCOMMUNITY SERVICE Board of North Region Leadership Institute (NORLI) Volunteer activities at New Orleans Enhancement
+Center: taught senior citizens how to use the computer Board of Advocates for Science & Math Education, Inc.
+HONORS/AWARDS/CERTIFICATIONS Certified Port Executive Turner Fellowship, State University of New York at Stony Brook
+United Negro College Fund Fellowship National Consortium of Educational Access Fellowship William and Mary Simon Fellowship",9512,director information technology professional summary results driven it director with over years of experience in diverse industries including port and higher education expertise includes team leadership technical architecture training and development disaster recovery planning and information protection analysis dynamic resourceful and extremely driven individual with a deep passion for creating and delivering programs and solutions that empower a team company and customer to meet and exceed desired expectations core qualifications it management results oriented operations management budget administration change management problem resolution team leadership decisive leader cost reduction experience director information technology august to current company name city state manages information technology computer center for the board of commissioners of the port of new orleans board develops initiates implements and monitors procedures necessary to determine the need for improvement of the system and operational activities makes recommendations on the acquisition lease or rental of equipment and computer services the development and implementation of new data processing programs and the expansion of existing equipment and programs provide information and recommendations to the port s management relevant to the establishment of priorities for prospective system applications develops and or revises data and practices concerning plan and procedures consistent with agency goals and objectives in the information communications fields formulates requests for bid and requests for proposals for major and minor i t professional services and hardware contracts directly involved in vendor selection and final contract negotiations and approvals supervises information technology and telecommunication staff and provides guidance and direction of daily activities develops and supervises the work of system project consultants provides consulting services to all port departments and divisions concerning information systems new programs and data processing develops form management procedures and reviews and justifies current practices evaluates existing manual and automated information related activities including physical work environment administrative procedures and work flows represents the board of commissioners on national and international committees and conferences as necessary prepares hardware software and personnel budgets for the i t department staying abreast of the new technologies doing cost benefit analysis of these technologies and the incorporation of these technologies into the budgeting process participates in formulating board s current and future i t short and long term strategic planning including pc networking email ibm iseries support internet imaging computer aided software engineering communication protocols edi gis etc reviews and makes recommendations to management on the use and control of mainframe data processing systems for internal operations and for servicing the maritime community in the movement of cargo through the port assures that software utilizing the mainframe and remote computer local area wide area network equipment are protected and secure against viruses outside intrusion and cyber attack supervise the development of long range plans for the use of data processing equipment by the board related private sector firms and government agencies assure the confidentiality of priority data and supervise the distribution of that data to the appropriate public and private sector recipients coordinates the flow of information among in house departments private sector maritime interests u s customs and other agencies oversees a large repertoire of sophisticated application software interface with representatives of local national and international maritime and government agencies offices and firms concerning the technical requirements and operation and benefits of the system reviews coordinates and makes recommendations to board management and maritime interests on data transmission requirements monitors the preparation of reports submitted to board management the private sector and governmental agencies on data processing and technology issues keeps abreast of changes in the maritime industry as it affects the movement of bulk general and containerized cargo and the flow of electronic communications in charge of all telephone services required by the board this includes the main administrative phone switch and sub switches and all cell and broadband services define scope of work and specifications for hardware and software needs for homeland security grant investment justifications from to present fas system repair and updates building access command and control security camera projects portwide and cruise terminals wireless backbone infrastructure portwide msco provisioning mobile command center repair and upgrade underwater inspection vehicle and equipment technology installation on the harbor police patrol boat integration of command bridge incident control servers gis server implementation associate vice president for information technology and telecommunication april to october company name city state oversight responsibility for staff of people including professionals created and managed the office of information technology developed and implemented the strategic plan for the office of information technology awarded and directed million grant to install the telecommunications fiber optic infrastructure for university integrated the management information system department and the telecommunication department into one cohesive department provided data and communication services to entire university community implemented university wide operation of telephone pbx voice and data wireless communications developed administrative system for all users to become proficient in these areas ensured data integrity and responsibility standardizing ways and means of data collection thereby maintaining the integrity of inputs and outcomes created a filtering process to recognize viruses before they infect systems and thus established a reliable network free of viruses and spam implemented effective customer service customized to suit individual needs ensuring that all users were standardized for smooth communication with one another created inclusive customer friendly telecommunications climate ensuring that students were respected equally with faculty implemented comprehensive university system increasing the number of telecommunication units from to more than increased number of computer labs from two to nine ensuring dramatic increase in resources to students without increasing staff education ph d coastal oceanography state university of new york city state usa coastal oceanography m s computer science marine sciences research center school of marine and atmospheric sciences computer science b s mathematics university of evansville city state mathematics xavier university city state professional affiliations member of aapa information technology committee represented the university president at southern educational foundation member of the instructional technology assistance project itap team participated in educational leadership council served on academic computing committee accomplishments mcse microsoft certified systems engineer ldcca certified installer for fiber optic and category e certified construction quality management for contractors by u s army core of engineers wireless network auditing training system forensics investigation response training hacker techniques exploits and incident handling training accreditation skills academic administrative agency basic benefits broadband budgeting budgets cobol hardware computer applications conferences consulting contract negotiations contracts customer service data analysis data collection data processing database management dbase iv direction edi email features fortran gis government grants ibm ibm compatible imaging information systems information technology inspection interpretation laser macintosh mainframe mapinfo mathematics access ms excel office management information system monitors natural naval network novell netware oil operating systems pascal pbx pc networking personnel camera police programming proposals protocols radio real time reception relational database research rpg iii servers shell software engineering strategic strategic planning sun sparc switches switch telecommunications telecommunication telephone phone transmission unix and c unix upgrade vax vms voice and data wide area network written additional informationcommunity service board of north region leadership institute norli volunteer activities at new orleans enhancement center taught senior citizens how to use the computer board of advocates for science math education inc honors awards certifications certified port executive turner fellowship state university of new york at stony brook united negro college fund fellowship national consortium of educational access fellowship william and mary simon fellowship,"['data analysis', 'excel', 'communication', 'leadership', 'auditing', 'engineering', 'customer service', 'research', 'database management', 'networking']",14.335279168732715,"['excel', 'data analysis', 'database management', 'communication', 'research']","['python', 'sql', 'power bi', 'problem solving']",55.55555555555556,39.067445000826424,10
